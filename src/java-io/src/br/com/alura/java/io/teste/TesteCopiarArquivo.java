@@ -1,5 +1,3 @@
-package br.com.alura.java.io.teste;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;

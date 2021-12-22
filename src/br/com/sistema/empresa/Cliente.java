@@ -1,3 +1,4 @@
+package br.com.sistema.empresa  ;
 
 public class Cliente implements Autenticavel {
 	

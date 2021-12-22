@@ -1,3 +1,5 @@
+package br.com.sistema.empresa  ;
+
 
 public class Administrador extends Funcionario implements Autenticavel {
 	

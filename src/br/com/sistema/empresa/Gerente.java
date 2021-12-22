@@ -1,4 +1,4 @@
-
+package br.com.sistema.empresa  ;
 public class Gerente extends Funcionario implements Autenticavel {
 
 	private int senha;
